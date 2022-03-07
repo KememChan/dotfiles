@@ -1,0 +1,36 @@
+sw_volume: 100
+audio_device_state:0:ALSA [Bit-perfect]
+audio_device_state:1:PulseAudio
+audio_device_state:1:Visualizer
+state: play
+current: 2
+time: 197.310000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 2
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:YOASOBI/YOASOBI - 群青.flac
+1:YOASOBI/YOASOBI - ハルジオン.flac
+2:YOASOBI/YOASOBI - 夜に駆ける.mp3
+3:YOASOBI/YOASOBI - 怪物.flac
+4:Stray Kids/Stray Kids - Christmas EveL.mp3
+5:Stray Kids/Stray Kids - Hellevator.mp3
+6:Stray Kids/Stray Kids - 잘 하고 있어 Grow Up.mp3
+7:Stray Kids/Stray Kids - My Pace.mp3
+8:Stray Kids/Stray Kids - I am YOU.mp3
+9:Stray Kids/Stray Kids - The Tortoise and the Hare.mp3
+10:Stray Kids/Stray Kids - Back Door.mp3
+11:Stray Kids/Stray Kids - Pacemaker.mp3
+12:Stray Kids/Stray Kids - Mixtape  On Track.mp3
+13:Stray Kids/NOEASY/Stray Kids - Thunderous.mp3
+14:Blackpink/Blackpink - as if its your last_mv_Amq-qlqbjYA_720p.mp3
+15:Blackpink/BLACKPINK - '붐바야'(BOOMBAYAH) MV.mp3
+16:Western Song/Lil Nas X/Lil Nas X - INDUSTRY BABY.mp3
+17:Stray Kids/NOEASY/Stray Kids - DOMINO.mp3
+18:Eminem - Rap God.mp3
+19:Stray Kids/SKZ RECORD/HAN - I GOT IT.opus
+playlist_end
