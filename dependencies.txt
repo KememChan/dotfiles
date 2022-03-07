@@ -1,0 +1,8 @@
+# Music Player
+mpd, mpc, ncmpcpp 
+
+# Terminal
+kitty, zsh, starship, zsnap, zsh-autocomplete
+
+# Windows Manager
+bspwm, sxhkdrc, polybar, polywins, picom, rofi
